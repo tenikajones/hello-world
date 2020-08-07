@@ -4,3 +4,5 @@ Just another repository
 Hi there,
 
 I am Tenika. I am a web developer at 3flow. I am learning how to use GitHub.
+
+Today is Thursday August 7
